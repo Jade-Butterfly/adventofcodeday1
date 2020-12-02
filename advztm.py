@@ -215,4 +215,4 @@ if __name__ == "__main__":
 a = find_nos(n)
 print(a)
 print(int(a[0])*int(a[1]))
-print(1824+196)
+
